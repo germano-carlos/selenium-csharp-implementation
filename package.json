@@ -1,0 +1,22 @@
+{
+  "name": "selenium-csharp-implementation",
+  "version": "1.0.0",
+  "description": "Selenium Case Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germano-carlos/selenium-csharp-implementation.git"
+  },
+  "author": "Carlos Germano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/germano-carlos/selenium-csharp-implementation/issues"
+  },
+  "homepage": "https://github.com/germano-carlos/selenium-csharp-implementation#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}

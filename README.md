@@ -15,6 +15,25 @@ A instalação da aplicação é bem simples, você precisará das seguintes apl
 
 Além dos drivers, você também deverá incluir a pasta na qual você armazenou os drivers baixados como variáveis de ambiente atreladas ao PATH do seu windows.
 
+# Baixando o Projeto Atual
+
+o download e execucao do projeto é simples:
+
+```bash
+### Clonando o repositorio local
+$ git clone https://github.com/germano-carlos/selenium-csharp-implementation.git
+
+### ICaminhando a pasta clonada
+$ cd /selenium-csharp-implementation
+
+### Instalando pacotes necessarios
+$ npm install 
+
+### Executando o script localizado no arquivo index.js
+$ node index
+
+```
+
 # Criando Projeto
 
 A realização da criação do projeto é bem simples:
